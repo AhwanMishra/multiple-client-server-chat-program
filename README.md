@@ -37,6 +37,8 @@ joining the group, then he will be added to group immediately.
 9. /quit : The client will be removed from the server. This client will be removed from
 all the active groups.10. /activeallgroups​ : To display all the groups which are active on the server.
 
+10. /activeallgroups​ : To display all the groups which are active on the server.
+
 11. /joingroup <group id> : If this message is sent by a client having the request for
 joining the group, then he will be added to group immediately. Otherwise a request
 should be passed to the admin of that group and if admin responds to the request
